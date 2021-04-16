@@ -5,22 +5,29 @@ This project aims to compare household income in Baltimore (MD) and New York (NY
 
 In particular, I want to dive into the comparison of the household income in Baltimore and New York. Since household income and socioeconomic status (SES) are key factors affecting the economic robustness of a city, I would also like to investigate how household income is affected by the income level of the previous generation. 
 
-The dataset I used for this study is from the Opportunity Insight Project, which is a project with a mission is to identify barriers to economic opportunity and develop scalable solutions that will empower people throughout the United States to rise out of poverty and achieve better life outcomes.
+The dataset I used for this study is from the [Opportunity Insight Project](https://www.opportunityatlas.org/), which is a project with a mission is to identify barriers to economic opportunity and develop scalable solutions that will empower people throughout the United States to rise out of poverty and achieve better life outcomes.
  
 ## Business Question 
 _Which city between Baltimore and New York has a more robust economy?_
 
 ## Data Question 
-_1. What is the average household income in Baltimore vs New York?_
-_2. How may parent's household income affect children's household income?_
+1. What is the average household income in Baltimore vs New York?
+2. How may parent's household income affect children's household income?
 
 ## List of Data Source 
-I obtain my data source all from the same website (https://www.opportunityatlas.org/) . And attached are links to my source cvs files: 
+I obtain my data source all from the same website . And attached are links to my source cvs files: 
 - [Baltimore City Immigrant Individual Income](https://github.com/sophiaxuu/decision-analytics/blob/main/mini-proj1/sources/baltimore_cty_kir_imm_rP_gP_pall.csv)
 - [Baltimore City U.S. Native Individual Income](https://github.com/sophiaxuu/decision-analytics/blob/main/mini-proj1/sources/baltimore_cty_kir_native_rP_gP_pall.csv)
 - [New York City Immigrant Individual Income](https://github.com/sophiaxuu/decision-analytics/blob/main/mini-proj1/sources/ny%20cty_kir_imm_rP_gP_pall.csv)
 - [New York City Native Individual Income](https://github.com/sophiaxuu/decision-analytics/blob/main/mini-proj1/sources/ny_cty_kir_native_rP_gP_pall.csv) 
 
 - [Average individual income for immigrants in New York and in Baltimore](https://github.com/sophiaxuu/decision-analytics/blob/main/mini-proj1/sources/imm_parent_child_income_comparisoin.xlsx)
+
+### 1. What is the average household income in Baltimore vs New York?
+![Figure 1: Average Individual Income in Baltimore vs New York](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/avg_ind_income_comparison.png)
+
+This figure shows
+
+
 
 
