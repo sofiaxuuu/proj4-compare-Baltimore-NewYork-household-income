@@ -44,7 +44,7 @@ One advantage of Python that I find is how easily it can deal with larger datase
 However, there are several inconveniences that I experience with Python. First, checking if data has a null value is harder. Previously in excel, I only need to use filter and delete empty data and you can visually see if a cell is empty, which is not possible in Python. Secondly, in python I need to be very careful with the value's datatype - I didn't realize the household income values are imported as a string rather than float number initially and it's very confusing. 
 
 # Data Analysis Steps Description 
-**Decision Analytics Project 4.ipynb:** ![Google Collaboratory Link](https://colab.research.google.com/drive/1T52BwHbq2zHpI-nfdJA0A9bxbFGCpyfh?usp=sharing)
+[Google Collaboratory Link](https://colab.research.google.com/drive/1T52BwHbq2zHpI-nfdJA0A9bxbFGCpyfh?usp=sharing)
 
 1. Import Libraries 
 2. Import datasets 
