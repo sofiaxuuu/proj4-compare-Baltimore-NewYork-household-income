@@ -16,15 +16,13 @@ _Which city between Baltimore and New York has a more robust economy?_
 
 ## List of Data Source 
 I obtain my data source all from the same website . And attached are links to my source cvs files: 
-- [Baltimore City Immigrant Individual Income](https://github.com/sophiaxuu/decision-analytics/blob/main/mini-proj1/sources/baltimore_cty_kir_imm_rP_gP_pall.csv)
-- [Baltimore City U.S. Native Individual Income](https://github.com/sophiaxuu/decision-analytics/blob/main/mini-proj1/sources/baltimore_cty_kir_native_rP_gP_pall.csv)
-- [New York City Immigrant Individual Income](https://github.com/sophiaxuu/decision-analytics/blob/main/mini-proj1/sources/ny%20cty_kir_imm_rP_gP_pall.csv)
-- [New York City Native Individual Income](https://github.com/sophiaxuu/decision-analytics/blob/main/mini-proj1/sources/ny_cty_kir_native_rP_gP_pall.csv) 
-
-- [Average individual income for immigrants in New York and in Baltimore](https://github.com/sophiaxuu/decision-analytics/blob/main/mini-proj1/sources/imm_parent_child_income_comparisoin.xlsx)
+- Dataset of residents' household income in [Baltimore, MD](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/baltimore_all_parent_income_rP_gP_pall.csv) and [New York, NY](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/ny_all_parent_income_rP_gP_pall.csv)
+- Dataset of residents' household income given parents' income is at top 25% percentile in [Baltimore, MD](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/baltimore_high_parent_income_rP_gP_p75.csv) and [New York](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/ny_high_parent_income_rP_gP_p75.csv).
+- Dataset of residents' household income given parents' income is at top 50% percentile in [Baltimore, MD](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/baltimore_middle_parent_incomerP_gP_p50.csv) and [New York](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/ny_middle_parent_income_rP_gP_p50.csv).
+- Dataset of residents' household income given parents' income is at top 25% percentile in [Baltimore, MD](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/baltimore_low_parent_income_rP_gP_p25.csv) and [New York](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/ny_low_parent_income_rP_gP_p25.csv). 
 
 ### 1. What is the average household income in Baltimore vs New York?
-![Figure 1: Average Individual Income in Baltimore vs New York](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/avg_ind_income_comparison.png)
+![Figure 1: Average Individual Income in Baltimore vs New York](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/avg_indi_income_comparison.png)
 
 This figure shows
 
