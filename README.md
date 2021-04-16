@@ -33,6 +33,21 @@ This figure here shows the trend that the higher the parent's household income, 
 
 Another finding is that for both Baltimore and New York, when comparing the average income of children with high parent income and the average income of children with middle parent income, the difference is approximately $7,000. And this difference between average income of children with middle parent income and the average income of children with low parent income is approximately $5,000.
 
+# Business Answer 
+This figure above suggests that New York has higher household income than Baltimore, MD in all parent income levels, as well as a positive relationship between children's income level and parent's income level in both cities. 
+
+These data findings show that New York has a more robust economy than Baltimore as it has a higher average household income. To further explore why there is such a income difference, we could explore data on races, education level, employment types etc. 
+
+# Python vs. Excel Analysis 
+One advantage of Python that I find is how easily it can deal with larger dataset compared to excel. In excel, I need to scroll all the way down the file to get all data, but I don't need to deal with that in python. 
+ 
+However, there are several inconveniences that I experience with Python. First, checking if data has a null value is harder. Previously in excel, I only need to use filter and delete empty data and you can visually see if a cell is empty, which is not possible in Python. Secondly, in python I need to be very careful with the value's datatype - I didn't realize the household income values are imported as a string rather than float number initially and it's very confusing. 
+
+# Data Analysis Steps Description 
+**Decision Analytics Project 4.ipynb:** [![Google Collaboratory Link](https://colab.research.google.com/drive/1T52BwHbq2zHpI-nfdJA0A9bxbFGCpyfh?usp=sharing)
+
+
+
 
 
 
