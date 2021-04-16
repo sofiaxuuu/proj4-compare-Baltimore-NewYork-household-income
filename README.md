@@ -27,9 +27,11 @@ I obtain my data source all from the same website . And attached are links to my
 This figure shows the Average Household income for Baltimore and New York. We can see there is a pretty significent gap of around $10,000 between average income in two cities, indicating that New York have a more robust economy. 
 
 ### 2. How may parent's household income affect children's household income?
-[Figure 2: Average Residents Income by Parents' Income Level in Baltimore and New York](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/income_by_parent_income.html)
+![Figure 2: Average Residents Income by Parents' Income Level in Baltimore and New York](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/income_by_parent_income.png)
 
+This figure here shows the trend that the higher the parent's household income, the higher the children's household income. Also, the household income in New York is generally higher than the household income in Baltimore. 
 
+Another finding is that for both Baltimore and New York, when comparing the average income of children with high parent income and the average income of children with middle parent income, the difference is approximately $7,000. And this difference between average income of children with middle parent income and the average income of children with low parent income is approximately $5,000.
 
 
 
