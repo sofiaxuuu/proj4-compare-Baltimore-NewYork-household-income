@@ -22,7 +22,7 @@ I obtain my data source all from the same website . And attached are links to my
 - Dataset of residents' household income given parents' income is at top 25% percentile in [Baltimore, MD](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/baltimore_low_parent_income_rP_gP_p25.csv) and [New York](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/ny_low_parent_income_rP_gP_p25.csv). 
 
 ### 1. What is the average household income in Baltimore vs New York?
-![Figure 1: Average Individual Income in Baltimore vs New York](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/avg_indi_income_comparison.png)
+![Figure 1: Average Individual Income in Baltimore vs New York](https://github.com/sophiaxuu/proj4-compare-Baltimore-NewYork-household-income/blob/main/average_ind_income_comparison.png)
 
 This figure shows the Average Household income for Baltimore and New York. We can see there is a pretty significent gap of around $10,000 between average income in two cities, indicating that New York have a more robust economy. 
 
